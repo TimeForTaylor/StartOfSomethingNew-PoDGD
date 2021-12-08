@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.StartOfSomethingNew.iml
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\aaa TAYLOR aaa\Documents\Taylor\Uni\SEM2 - Principles of Digital Game Design\unity projects\StartOfSomethingNew\.idea\.idea.StartOfSomethingNew\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
